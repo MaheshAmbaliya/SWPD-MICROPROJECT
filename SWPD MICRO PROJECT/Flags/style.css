@@ -1,0 +1,275 @@
+body {
+    background-color: #d3d3d3;
+}
+.title {
+    text-align: center;
+}
+.h10 {
+    margin-left: 70px;
+}
+.main_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    width: 350px;
+    height: 350px;
+    margin: 10px;
+    border: solid black;
+}
+.ukrain1 {
+    width: 300px;
+    height: 105px;
+    background-color: #0057B7;
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.ukrain2 {
+    width: 300px;
+    height: 105px;
+    background-color: #FFDD00;
+    margin-left: 25px;
+}
+.h1 {
+    position: absolute;
+    margin-left: 100px;
+}
+.sri1 {
+    width: 300px;
+    height: 160px;
+    background-color: #FFBE29;
+    margin-top: 80px;
+    margin-left: 25px;
+    position: absolute;
+}
+.sri2 {
+    width: 45px;
+    height: 100px;
+    background-color: #00534E;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 45px;
+}
+.sri3 {
+    width: 45px;
+    height: 100px;
+    background-color: #EB7400;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 90px;
+}
+.image1 {
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 155px;
+    background-color: #8D153A;
+}
+.h2 {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 80px;
+}
+.zambia1 {
+    width: 300px;
+    height: 210px;
+    background-color: #198A00;
+    margin-top: 70px;
+    margin-left: 25px;
+    position: absolute;
+}
+.zambia2 {
+    position: absolute;
+    width: 40px;
+    height: 130px;
+    background-color: #EF7D00;
+    margin-top: 150px;
+    margin-left: 285px;
+}
+.zambia3 {
+    position: absolute;
+    width: 40px;
+    height: 130px;
+    background-color: #000000;
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.zambia4 {
+    position: absolute;
+    width: 40px;
+    height: 130px;
+    background-color: #DE2010;
+    margin-top: 150px;
+    margin-left: 210px;
+}
+.image2 {
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 205px;
+}
+.h3 {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 100px;
+}   
+.Maldives1 {
+    width: 300px;
+    height: 210px;
+    background-color: #C8102E;
+    margin-top: 70px;
+    margin-left: 25px;
+    position: absolute;
+}
+.Maldives2 {
+    width: 200px;
+    height: 100px;
+    background-color: #00843D;
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 75px;
+}
+.image3 {
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 20px;
+    transform: rotate(45deg);
+}
+.h4 {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 90px;
+}
+.Japan1 {
+    width: 300px;
+    height: 210px;
+    background-color: #FFFFFF;
+    margin-top: 70px;
+    margin-left: 25px;
+    position: absolute;
+}
+.Japan2 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    background-color: #BC002D;
+    border-radius: 50%;
+    margin-top: 120px;
+    margin-left: 120px;
+}
+.h5 {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 100px;
+}
+.belize1 {
+    width: 300px;
+    height: 210px;
+    background-color: #D90F19;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.belize2 {
+    width: 300px;
+    height: 160px;
+    background-color: #171696;
+    position: absolute;
+    margin-top: 95px;
+    margin-left: 25px;
+}
+.image4 {
+    margin-top: 30px;
+    margin-left: 95px;
+    position: absolute;
+    background-color: white;
+    border-radius: 50%;
+}
+.h6 {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 110px;
+}
+.guinea1 {
+    width: 95px;
+    height: 210px;
+    position: absolute;
+    background-color: #EF3340;
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.guinea2 {
+    width: 300px;
+    height: 105px;
+    background-color: #FFD100;
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.guinea3 {
+    width: 300px;
+    height: 105px;
+    background-color: #009739;
+    margin-left: 25px;
+}
+.image5 {
+    margin-top: 75px;
+    margin-left: 25px;
+}
+.h7 {
+    margin-left: 50px;
+}
+.portugal1 {
+    width: 300px;
+    height: 210px;
+    background-color: #046A38;
+    margin-top: 70px;
+    margin-left: 25px;
+    position: absolute;
+}
+.portugal2 {
+    width: 180px;
+    height: 210px;
+    background-color: #DA291C;
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 145px;
+}
+.image6 {
+    position: absolute;
+    margin-top: 125px;
+    margin-left: 95px;
+}
+.h8 {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 90px;
+}
+.estonia1 {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    background-color: #0072CE;
+    margin-top: 70px;
+    margin-left: 25px;
+}
+.estonia2 {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    background-color: #000000;
+    margin-top: 140px;
+    margin-left: 25px;
+}
+.estonia3 {
+    position: absolute;
+    width: 300px;
+    height: 70px;
+    background-color: #FFFFFF;
+    margin-top: 210px;
+    margin-left: 25px;
+}
+.h9 {
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 100px;
+}
